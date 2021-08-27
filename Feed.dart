@@ -13,16 +13,8 @@ class Feed extends StatelessWidget {
         child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-        Container(
-        padding: EdgeInsets.symmetric(vertical: 10),
-        width: double.infinity,
-        decoration: BoxDecoration(
-          color: Colors.blue,
-          border: Border.all(
-              color: Colors.black,
-              width: 2
-          ),
-        ),
+        
+Eng maysaa.com
 
         child: Text(
           "strawberry Pavlova Recipe",
