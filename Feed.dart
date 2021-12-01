@@ -46,12 +46,12 @@ Eng maysaa.com
               width: 2
           ),
         ),
-        child: Column( // طول
+        child: Column( 
           children: [
           Row( // عرض
           mainAxisAlignment: MainAxisAlignment.spaceAround,
           children: [
-            Row( // عرض لاجل النجوم لان النجوم جمب بعض
+            Row( 
               children: [
                 Icon(Icons.star, color: Colors.yellow),
                 Icon(Icons.star, color: Colors.yellow),
